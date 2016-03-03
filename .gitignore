@@ -1,0 +1,7 @@
+.directory
+*.pyc
+.pydevproject
+*.o
+*.so
+.svn
+.DS_Store
